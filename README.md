@@ -1,5 +1,5 @@
 <h1 align="center">Hola, Soy Victor Chavez 🍵</h1>
-<h3 align="center">Consultor TI. Transformando necesidades en soluciones. Combino el desarrollo de software y la gestión de proyectos TI, especializado en guiar a equipos durante la implementación de ERPs.</h3> 
+<h3 align="center">Consultor TI, Transformando necesidades en soluciones. Combino el desarrollo de software y la gestión de proyectos TI, especializado en guiar a equipos durante la implementación de ERPs.</h3> 
 <h3 align="center"> 🚀 IT Project Manager | 💻 Software Developer & DBA | 🎓 ERP Implementation Specialist </h3>
 
 <h3 align="left">Connect with me:</h3>
